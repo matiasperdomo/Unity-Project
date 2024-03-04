@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Juego de Prueba.sln"
+    "dotnet.defaultSolution": "Unity-Project.sln",
+    "dotnet.preferCSharpExtension": true
 }
